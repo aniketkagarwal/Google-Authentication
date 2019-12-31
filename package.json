@@ -1,0 +1,30 @@
+{
+  "name": "google-authentication",
+  "version": "1.0.0",
+  "description": "Build an app using nodejs ensuring google authentication",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "google",
+    "api"
+  ],
+  "author": "Aniket Agarwal",
+  "license": "ISC",
+  "dependencies": {
+    "google-auth-library": "^5.7.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aniketkagarwal/Google-Authentication.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aniketkagarwal/Google-Authentication/issues"
+  },
+  "homepage": "https://github.com/aniketkagarwal/Google-Authentication#readme"
+}
